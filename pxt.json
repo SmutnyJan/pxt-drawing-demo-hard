@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-drawing-extension": "github:microbit-cz/pxt-drawing-extension#cc86d9202e890b5a20cc580c235819064fff2b2f"
     },
     "files": [
         "README.md",
@@ -23,5 +24,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
